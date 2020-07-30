@@ -1,3 +1,6 @@
+// Pratham Ground Station Rotor Code  - IIT Bombay Student Satellite team
+//Copyrights with IITB Student Satellite Team
+//written in 2016
 #include <stdlib.h>
 #include <fstream> 
 #include <iostream>
